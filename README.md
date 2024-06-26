@@ -30,14 +30,14 @@ This project is a streaming website developed using HTML, CSS, and JavaScript. I
 ![5](https://github.com/shayanjaviid/Streaming-Website/assets/104303445/dbe5fe7d-0f86-453f-83d3-bdacea1baf0a)
 
 ## Premium Account
-![6](https://github.com/shayanjaviid/Streaming-Website/assets/104303445/3a3e3ea2-56ef-4a6b-9b8a-9a80c72803db)
-![7](https://github.com/shayanjaviid/Streaming-Website/assets/104303445/d371365d-c567-4303-ba36-e50ec4095864)
 
 ### Subscription Option
 
 - **Ad-Free Experience**: Enjoy videos without interruptions.
 - **Additional Features**: Access exclusive content and enhanced streaming options.
 - **Payment Gateway Integration**: Securely pay for subscriptions using integrated gateways.
+![6](https://github.com/shayanjaviid/Streaming-Website/assets/104303445/3a3e3ea2-56ef-4a6b-9b8a-9a80c72803db)
+![7](https://github.com/shayanjaviid/Streaming-Website/assets/104303445/d371365d-c567-4303-ba36-e50ec4095864)
 
 ## Technologies Used
 

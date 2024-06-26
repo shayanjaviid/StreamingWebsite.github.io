@@ -49,6 +49,9 @@ This project is a streaming website developed using HTML, CSS, and JavaScript. I
 1. Clone the repository: `git clone https://github.com/yourusername/streaming-website.git`
 2. Open `index.html` in your web browser to start streaming videos.
 
+## Link
+- **Link to Website**:https://test-training-cheyenne.000webhostapp.com/
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
